@@ -6,7 +6,7 @@
 	<artifactId>jwbf</artifactId>
 	<packaging>jar</packaging>
 	<name>JWBF</name>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.5-SNAPSHOT</version>
 	<description>Java Wiki Bot Framework - A Wiki helper</description>
 	<url>http://jwbf.sourceforge.net/</url>
 	<issueManagement>
